@@ -1,4 +1,4 @@
-create table caesars.marketing_lvm (
+create table caesars.marketing_campaigns_lvm (
     id BIGSERIAL,
 	i_dmid varchar(11),
 	c_prop_market_cd_fk varchar(18),
